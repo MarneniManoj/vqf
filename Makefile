@@ -55,7 +55,7 @@ $(OBJDIR)/main_id.o: 			$(LOC_SRC)/main_id.cc
 $(OBJDIR)/main_tx.o: 			$(LOC_SRC)/main_tx.cc
 $(OBJDIR)/bm.o: 			$(LOC_SRC)/bm.cc
 
-$(OBJDIR)/vqf_filter.o: 			$(LOC_SRC)/vqf_filter.c
+$(OBJDIR)/vqf_filter.o: 			$(LOC_SRC)/vqf_filter.cc
 
 #
 # generic build rules
